@@ -1,7 +1,7 @@
 # End-to-end-Waste-Deteaction-using-Yolo
 
 ## Workflows
-1.constants
+1. constants
 2. entity
 3. components
 4. pipelines
